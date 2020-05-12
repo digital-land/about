@@ -1,5 +1,5 @@
 ---
-title: About the Digital Land team
+title: About us
 ---
 
 ## Who we are
