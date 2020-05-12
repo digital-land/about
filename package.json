@@ -1,0 +1,16 @@
+{
+  "name": "about",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "mkdir -p docs/ && node content-frontend/compilers/content.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "frontend": "file:content-frontend"
+  }
+}
