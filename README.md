@@ -1,4 +1,4 @@
-# About
+# about
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
