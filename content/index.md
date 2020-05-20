@@ -22,7 +22,7 @@ By making land and housing data easier to find, use and trust, we aim to make it
 
 * policy teams in MHCLG to create policy based on high quality, relevant data
 
-Read more about the problems with [land and housing data](https://digital-land.github.io/about/data/) we're working to solve.
+Read more about the problems with [land and housing data](/about/data/) we're working to solve.
 
 ## Our vision
 
